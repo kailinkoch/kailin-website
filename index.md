@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/kailinkoch/kailin-website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hello! My name is Kailin Koch. I enjoy digging into messy data projects, especially those involving language. I majored in Government and minored in Spanish and East Asian Studies at Cornell University.  After graduating I worked for 5 years in research consulting, data analytics and product management before heading to graduate school. I studied data science at UC Berkeley's School of Information.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Works in Progress
+- Predicting Code Switches: BERT Edition
+- Complicating Newtork Analysis
 
-### Markdown
+## My Academic Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+_Graduate_
+- [Graduate School Capstone Project](https://gjkls-mims.github.io/capstone-website/)
+- [Predicting Code Switches in a Bilingual Podcast](https://github.com/kailinkoch/info-256/blob/main/KailinKoch_CodeSwitchPredictions%20(2).pdf)
+- [The Road to 5G Adoption: A Network Analysis](https://kailinkoch.github.io/network-5G/)
+- [A Recipe for Success Recipe2Vec](https://github.com/kailinkoch/recipe-word2vec/blob/main/recipe_for_success_presentaiton.pdf)
+- [Visualizing Changing Bike Share Patterns in Covid 2020](https://github.com/kailinkoch/baywheels-project/wiki/Insights-from-baywheels-project)
+- Airplane Data Engineering Pipeline
 
-```markdown
-Syntax highlighted code block
+_Undergraduate_
+- ["Mental Health Parity in Action? An Examination of Medical Expenditure 2009-2012"](https://github.com/kailinkoch/kailin-website/blob/main/Mental%20Health%20Parity%20in%20Action_%20An%20Examination%20of%20Medical%20Expenditure%202009-2012.docx.pdf). Presented novel research at Government Honor Society Pi Sigma Alpha National Conference February 2015.
+- Conducted experiments to support CSCW article ["Effects of Sensemaking Translucence on Distributed Collaborative Analysis"](http://www.teshgoyal.info/Goyal_CSCW2016_preprint.pdf) (Goyal and Fussell, 2016)
+- Performed research for _Incarceration Nation_ by Peter Enns and _Dictators at War and Peace_ by Jessica Weeks
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## My Coursework
+_Graduate_
+* Data Structures and Analytics
+* Data Mining
+* Applied Natural Language Processing
+* Applied Machine Learning
+* Data Engineering
+* Experiments and Causal Inference
+* Quantitative Research Methods
+* Front End Web Architecture
+* Introduction to Software Engineering
+* Product Design
+* Pricing
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kailinkoch/kailin-website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+_Undergraduate_
+* Statistical Sampling
+* Introduction to Programming in Python
+* Statistics for the Social Sciences II
+* Evidence Based Policy Analysis 
