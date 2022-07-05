@@ -15,7 +15,7 @@ _Graduate_
 - [The Road to 5G Adoption: A Network Analysis](https://kailinkoch.github.io/network-5G/) As a final project for IT Economics, I used a graph network cascade model to simulate 5G adoption rates based on payoff values and adoption thresholds.
 - [A Recipe for Success Recipe2Vec](https://github.com/kailinkoch/recipe-word2vec/blob/main/recipe_for_success_presentaiton.pdf)
 - [Visualizing Changing Bike Share Patterns in Covid 2020](https://github.com/kailinkoch/baywheels-project/wiki/Insights-from-baywheels-project) Using data from SF's BayWheels bike program, I built a dynamic visualization of bike share behavior in San Francisco January - June 2020.
-- Airplane Data Engineering Pipeline. I created a dbt pipeline for ingesting and summarizing airline data as part of a final data engineering project.
+- [Airplane Data Engineering Pipeline](https://kailinkoch.github.io/airline-dbt/). I created a dbt pipeline for ingesting and summarizing airline data as part of a final data engineering project.
 
 _Undergraduate_
 - ["Mental Health Parity in Action? An Examination of Medical Expenditure 2009-2012"](https://github.com/kailinkoch/kailin-website/blob/main/Mental%20Health%20Parity%20in%20Action_%20An%20Examination%20of%20Medical%20Expenditure%202009-2012.docx.pdf). Presented novel research at Government Honor Society Pi Sigma Alpha National Conference February 2015.
