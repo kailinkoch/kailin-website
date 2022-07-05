@@ -23,8 +23,10 @@ _Undergraduate_
 - Performed research for _Incarceration Nation_ by Peter Enns and _Dictators at War and Peace_ by Jessica Weeks
 
 
-## My Resume
-See my full resume [here]()
+## Links
+* [LinkedIn](https://www.linkedin.com/in/kailin-koch2/)
+* [Github](https://github.com/kailinkoch)
+* [Resume](https://github.com/kailinkoch/kailin-website/blob/main/Kailin%20Resume%207.5.22.pdf)
 
 ## My Coursework
 _Graduate_
