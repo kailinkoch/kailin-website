@@ -1,13 +1,17 @@
 # Kailin Koch
+5G Network Analysis |  Image Paraphraser | Bike Usage
+:-------------------------:|:-------------------------:|:-------------------------:
+![Network Analysis](https://user-images.githubusercontent.com/68975515/198893120-639d0914-aea8-4b88-a7d4-5309d466123b.png) | ![Image Paraphraser](https://user-images.githubusercontent.com/68975515/198890809-e1a3fca6-d065-4e12-9acd-e47dd4492353.png)  | ![rides_by_week_by_zip](https://github.com/kailinkoch/baywheels-project/blob/master/charts/baywheels-byweek-byzip.gif)             
+
+
 
 ## About Me
 
 Hello! My name is Kailin Koch. I enjoy digging into messy data projects, especially those involving language. I majored in Government and minored in Spanish and East Asian Studies at Cornell University.  After graduating I worked for 5 years in research consulting, data analytics and product management before heading to graduate school. I studied data science at UC Berkeley's School of Information. In my free time I enjoy paddling on a dragonboat team and doing yoga.
 
 ## Works in Progress
-- [Image Paraphraser](https://github.com/kailinkoch/image-paraphraser#readme))
+- [Image Paraphraser](https://github.com/kailinkoch/image-paraphraser#readme)
 - Predicting Code Switches: BERT Edition
-- Complicating Newtork Analysis
 - [Book Review Blog](https://armchairfinancialcrimes.blogspot.com/?zx=18f813f1db17fdde)
 
 ## My Academic Projects
