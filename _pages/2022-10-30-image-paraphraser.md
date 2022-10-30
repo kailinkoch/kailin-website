@@ -1,7 +1,6 @@
----
-layout: post
-title:  Image Paraphraser?
----
+layout: page
+title: "Image Paraphraser"
+permalink: /image-paraphraser
 
 *Premise: can you use a generative image model to paraphrase a caption?*
 
