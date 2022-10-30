@@ -5,6 +5,7 @@
 Hello! My name is Kailin Koch. I enjoy digging into messy data projects, especially those involving language. I majored in Government and minored in Spanish and East Asian Studies at Cornell University.  After graduating I worked for 5 years in research consulting, data analytics and product management before heading to graduate school. I studied data science at UC Berkeley's School of Information. In my free time I enjoy paddling on a dragonboat team and doing yoga.
 
 ## Works in Progress
+- [Image Paraphraser](https://github.com/kailinkoch/image-paraphraser#readme))
 - Predicting Code Switches: BERT Edition
 - Complicating Newtork Analysis
 - [Book Review Blog](https://armchairfinancialcrimes.blogspot.com/?zx=18f813f1db17fdde)
