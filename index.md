@@ -1,6 +1,7 @@
 # Kailin Koch
 5G Network Analysis |  Image Paraphraser | Bike Usage
 :-------------------------:|:-------------------------:|:-------------------------:
+
 ![Network Analysis](https://user-images.githubusercontent.com/68975515/198893120-639d0914-aea8-4b88-a7d4-5309d466123b.png) | ![Image Paraphraser](https://user-images.githubusercontent.com/68975515/198890809-e1a3fca6-d065-4e12-9acd-e47dd4492353.png)  | ![rides_by_week_by_zip](https://github.com/kailinkoch/baywheels-project/blob/master/charts/baywheels-byweek-byzip.gif)             
 
 
