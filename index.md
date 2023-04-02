@@ -6,6 +6,7 @@ Hello! My name is Kailin Koch. I enjoy digging into messy data projects, especia
 
 ## Works in Progress
 - [Image Paraphraser](https://github.com/kailinkoch/image-paraphraser#readme) 
+- [Data Science Concept Notebooks](https://github.com/kailinkoch/data-sci-notebooks)
 - Predicting Code Switches: BERT Edition
 - [Book Review Blog](https://armchairfinancialcrimes.blogspot.com/?zx=18f813f1db17fdde)
 
